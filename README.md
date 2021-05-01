@@ -1,2 +1,2 @@
-# React-Course-Starter-Haikal_Hanis
+# react-course-starter
 Created with CodeSandbox
